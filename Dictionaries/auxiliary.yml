@@ -1,0 +1,7 @@
+do: [auxiliary]
+does: [auxiliary]
+did: [auxiliary]
+dont: [auxiliary]
+doesnt: [auxiliary]
+didnt: [auxiliary]
+not: [auxiliary]

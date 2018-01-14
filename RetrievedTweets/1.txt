@@ -1,0 +1,7 @@
+b'I am not happy with iphonex'
+b'I am dont happy with ipad'
+b'I like liftingbalm'
+b'It is a amazing design iphonex'
+b'I am not like samsungs8'
+b'I like facialcotton'
+b'I dont like airpod'
